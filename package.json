@@ -1,0 +1,9 @@
+{
+  "name": "boring-buses",
+  "version": "1.0.0",
+  "main": "buses.js",
+  "type": "module",
+  "devDependencies": {
+    "eslint": "^8.39.0"
+  }
+}
